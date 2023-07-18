@@ -1,0 +1,10 @@
+{
+  "name": "double-scroll-bars",
+  "version": "1.15.0",
+  "description": "Double scroll bars",
+  "main": [
+    "double-scroll-bars.js"
+  ],
+  "ignore": [
+  ]
+}
